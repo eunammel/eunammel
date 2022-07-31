@@ -3,6 +3,7 @@
 - 😄 My name is: Chutaporn
 - ⚡ Student id: 63361535
 - 🔭 I'm currently studying on Faculty of Engineering.
+- Dream job : bartender
 
 ## Developer Tech
 
